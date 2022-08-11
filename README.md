@@ -6,3 +6,5 @@ Proposta do projeto:
 
 
 Oferecer um circuito que possa funcionar com vários sensores (no projeto existem apenas 3, mas podem ser acoplados diversos sensores sem dificuldades) onde quando se abre o circuito o módulo LCD acusa em qual setor ocorreu a invasão.
+
+![alt text](https://github.com/brunodisanto/z8051-asm-alarm-source/blob/master/project.GIF?raw=true)
